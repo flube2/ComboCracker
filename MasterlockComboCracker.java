@@ -6,7 +6,7 @@
  * https://null-byte.wonderhowto.com/how-to/behind-hack-discovered-8-try-master-combo-lock-exploit-0161877/
  * and ask the author your questions.
  * 
- * @author Frank Lubek (flube2@uic.edu)
+ * @author Frank Lubek (flubek@gmail.com)
  *
  */
 
