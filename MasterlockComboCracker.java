@@ -30,7 +30,7 @@ public class MasterlockComboCracker {
 
     // Intro
     System.out.println("\n\n\t\t\t\t\t****** MasterlockComboCracker ******");
-    System.out.println("\t\t\t\t\tAuthor: Frank Lubek  flubek@elude.in\n\n");
+    System.out.println("\t\t\t\t\tAuthor: Frank Lubek  flubek@gmail.com\n\n");
     System.out.println("Welcome! So it seems you have a Masterlock Combo lock you need opened.");
     // 64,000 in theory as 40^3 = 64,000. BUT as there are no repeats and numbers wont be
     // within +/- 2 of another number in the combo, 40*35*30 = 42,000
